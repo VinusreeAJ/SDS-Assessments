@@ -100,6 +100,7 @@ const Login = () => {
                   <div className="d-grid">
                     <button
                       type="submit"
+                      data-testid="submit"
                       className="btn btn-primary btn-lg formSubmit"
                     >
                       Login
